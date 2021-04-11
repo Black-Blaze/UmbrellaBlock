@@ -1,2 +1,2 @@
 # UmbrellaBlock
-A Basic Block Chain Implementing Mining, Wallets And Transctions
+A Basic Block Chain Implementing Mining, Wallets And Transactions
